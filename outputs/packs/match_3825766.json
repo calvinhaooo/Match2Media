@@ -1,0 +1,53 @@
+{
+  "match_id": 3825766,
+  "language": "en",
+  "titles": [
+    "Betis Take Top Spot with Late Winner!",
+    "#Matchday: La Liga Thrills",
+    "#Goals Galore in Valencia"
+  ],
+  "captions": [
+    {
+      "platform": "instagram",
+      "text": "Real Betis seal top spot with late winner against Valencia!"
+    },
+    {
+      "platform": "tiktok",
+      "text": "Betis take the lead with a stunning goal at 48 minutes!"
+    },
+    {
+      "platform": "x",
+      "text": "Valencia's Gayà sent off in 84th minute as Betis win 1-0"
+    }
+  ],
+  "summary": "Real Betis secured top spot in La Liga with a 1-0 victory over Valencia, thanks to Rubén Castro Martín's late winner. The match was marred by José Luis Gayà Peña's red card in the 84th minute.",
+  "hashtags": [
+    "#Betis",
+    "#Valencia",
+    "#LaLiga",
+    "#Matchday",
+    "#Goals"
+  ],
+  "key_moments": [
+    {
+      "minute": 48,
+      "team": "Real Betis",
+      "player": "Rubén Castro Martín",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "8b8aa603-4465-4e3f-b2eb-0d06d134bf80"
+      },
+      "description": "Betis take the lead with a stunning goal at 48 minutes!"
+    },
+    {
+      "minute": 84,
+      "team": "Valencia",
+      "player": "José Luis Gayà Peña",
+      "event_type": "red_card",
+      "evidence": {
+        "event_id": "530398e7-f78a-41d5-a62f-50a08b3fdb79"
+      },
+      "description": "Gayà sent off in 84th minute as Betis win 1-0"
+    }
+  ]
+}

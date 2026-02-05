@@ -1,0 +1,6 @@
+{
+  "match_id": 3930165,
+  "ok": false,
+  "error": "Failed to generate valid JSON after retries. Last error: 3 validation errors for ContentPack\nmatch_id\n  Field required [type=missing, input_value={'titles': ['Austria vs F...tsNews', '#MatchRecap']}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/missing\nlanguage\n  Field required [type=missing, input_value={'titles': ['Austria vs F...tsNews', '#MatchRecap']}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/missing\nkey_moments.1.minute\n  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]\n    For further information visit https://errors.pydantic.dev/2.12/v/int_type",
+  "generation_seconds": 194.19
+}

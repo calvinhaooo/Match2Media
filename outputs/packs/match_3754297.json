@@ -1,0 +1,61 @@
+{
+  "match_id": 3754297,
+  "language": "en",
+  "titles": [
+    "Manchester United Secure Crucial Win Over West Bromwich Albion",
+    "#CrucialWin for Manchester United"
+  ],
+  "captions": [
+    {
+      "platform": "instagram",
+      "text": "Manchester United's Jesse Lingard scores the opener in their 2-0 win over West Bromwich Albion!"
+    },
+    {
+      "platform": "tiktok",
+      "text": "GOAL! Juan Manuel Mata García seals the deal for Manchester United against West Bromwich Albion!"
+    },
+    {
+      "platform": "x",
+      "text": "Manchester United take down West Bromwich Albion 2-0"
+    }
+  ],
+  "summary": "Manchester United secured a crucial 2-0 win over West Bromwich Albion in their Premier League match. Jesse Lingard opened the scoring for Manchester United in the 51st minute, while Juan Manuel Mata García sealed the deal with his goal in the 90th minute. The win sees Manchester United move closer to the top of the table.",
+  "hashtags": [
+    "#ManchesterUnited",
+    "#WestBromwichAlbion",
+    "#PremierLeague",
+    "#CrucialWin"
+  ],
+  "key_moments": [
+    {
+      "minute": 51,
+      "team": "Manchester United",
+      "player": "Jesse Lingard",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "19acd417-9692-4078-9ea5-9f0403fb5509"
+      },
+      "description": "Jesse Lingard scores the opener for Manchester United"
+    },
+    {
+      "minute": 89,
+      "team": "West Bromwich Albion",
+      "player": "Gareth McAuley",
+      "event_type": "red_card",
+      "evidence": {
+        "event_id": "64f9bacc-f447-44dc-a692-fc7d331ea214"
+      },
+      "description": "Gareth McAuley receives a red card for West Bromwich Albion"
+    },
+    {
+      "minute": 90,
+      "team": "Manchester United",
+      "player": "Juan Manuel Mata García",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "f69657cc-f919-4d4d-9616-8523c3f99b0e"
+      },
+      "description": "Juan Manuel Mata García seals the deal for Manchester United"
+    }
+  ]
+}

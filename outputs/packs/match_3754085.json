@@ -1,0 +1,62 @@
+{
+  "match_id": 3754085,
+  "language": "en",
+  "titles": [
+    "Mahrez Magic: Leicester City Thrash Swansea City 3-0!",
+    "#ShotsOnTarget: Mahrez Scores Hat-Trick in Premier League Rout"
+  ],
+  "captions": [
+    {
+      "platform": "instagram",
+      "text": "Riyad Mahrez scores a hat-trick as Leicester City crush Swansea City 3-0!"
+    },
+    {
+      "platform": "tiktok",
+      "text": "Mahrez magic! Leicester City thrash Swansea City 3-0 in the Premier League!"
+    },
+    {
+      "platform": "x",
+      "text": "Leicester City dominate Swansea City 3-0, thanks to Mahrez's hat-trick"
+    }
+  ],
+  "summary": "Riyad Mahrez scored a hat-trick as Leicester City thrashed Swansea City 3-0 in the Premier League. The Algerian winger was unstoppable, scoring two goals in the first half and one in the second. The win sees Leicester City move up the table, while Swansea City struggle to find consistency.",
+  "hashtags": [
+    "#LeicesterCity",
+    "#SwanseaCity",
+    "#PremierLeague",
+    "#RiyadMahrez",
+    "#HatTrick"
+  ],
+  "key_moments": [
+    {
+      "minute": 4,
+      "team": "Leicester City",
+      "player": "Riyad Mahrez",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "3a33a7c2-b3e3-4640-8ebe-ec9820eda0ff"
+      },
+      "description": "Mahrez scores his first goal of the game"
+    },
+    {
+      "minute": 21,
+      "team": "Leicester City",
+      "player": "Riyad Mahrez",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "af63688d-00f5-4f4a-991b-828653fc4903"
+      },
+      "description": "Mahrez scores his second goal of the game"
+    },
+    {
+      "minute": 66,
+      "team": "Leicester City",
+      "player": "Riyad Mahrez",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "1bb537d8-137a-4176-890c-8f2669918357"
+      },
+      "description": "Mahrez completes his hat-trick"
+    }
+  ]
+}

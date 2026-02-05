@@ -1,0 +1,115 @@
+{
+  "n": 10,
+  "seed": 42,
+  "model": "llama3.1:8b",
+  "language": "en",
+  "match_ids": [
+    3930165,
+    3900519,
+    3825766,
+    3890402,
+    3754297,
+    3754174,
+    3754085,
+    3900635,
+    3890381,
+    3878610
+  ],
+  "results": [
+    {
+      "match_id": 3930165,
+      "ok": false,
+      "error": "Failed to generate valid JSON after retries. Last error: 3 validation errors for ContentPack\nmatch_id\n  Field required [type=missing, input_value={'titles': ['Austria vs F...tsNews', '#MatchRecap']}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/missing\nlanguage\n  Field required [type=missing, input_value={'titles': ['Austria vs F...tsNews', '#MatchRecap']}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/missing\nkey_moments.1.minute\n  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]\n    For further information visit https://errors.pydantic.dev/2.12/v/int_type",
+      "generation_seconds": 194.19
+    },
+    {
+      "match_id": 3900519,
+      "ok": true,
+      "home": "Rennes",
+      "away": "Bordeaux",
+      "score": "2-2",
+      "num_source_key_events": 4,
+      "num_generated_key_moments": 4,
+      "factual_valid": true,
+      "generation_seconds": 241.21
+    },
+    {
+      "match_id": 3825766,
+      "ok": true,
+      "home": "Real Betis",
+      "away": "Valencia",
+      "score": "1-0",
+      "num_source_key_events": 2,
+      "num_generated_key_moments": 2,
+      "factual_valid": true,
+      "generation_seconds": 167.87
+    },
+    {
+      "match_id": 3890402,
+      "ok": true,
+      "home": "Augsburg",
+      "away": "Schalke 04",
+      "score": "2-1",
+      "num_source_key_events": 3,
+      "num_generated_key_moments": 3,
+      "factual_valid": true,
+      "generation_seconds": 234.59
+    },
+    {
+      "match_id": 3754297,
+      "ok": true,
+      "home": "Manchester United",
+      "away": "West Bromwich Albion",
+      "score": "2-0",
+      "num_source_key_events": 3,
+      "num_generated_key_moments": 3,
+      "factual_valid": true,
+      "generation_seconds": 180.64
+    },
+    {
+      "match_id": 3754174,
+      "ok": false,
+      "error": "Failed to generate valid JSON after retries. Last error: 1 validation error for ContentPack\nlanguage\n  Field required [type=missing, input_value={'match_id': 3754174, 'ti...'#Football', '#Sports']}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/missing",
+      "generation_seconds": 387.06
+    },
+    {
+      "match_id": 3754085,
+      "ok": true,
+      "home": "Swansea City",
+      "away": "Leicester City",
+      "score": "0-3",
+      "num_source_key_events": 3,
+      "num_generated_key_moments": 3,
+      "factual_valid": true,
+      "generation_seconds": 225.8
+    },
+    {
+      "match_id": 3900635,
+      "ok": false,
+      "error": "Failed to generate valid JSON after retries. Last error: 2 validation errors for ContentPack\nmatch_id\n  Field required [type=missing, input_value={'titles': ['Reims Fall t...'20152016', 'Football']}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/missing\nlanguage\n  Field required [type=missing, input_value={'titles': ['Reims Fall t...'20152016', 'Football']}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/missing",
+      "generation_seconds": 164.35
+    },
+    {
+      "match_id": 3890381,
+      "ok": true,
+      "home": "FSV Mainz 05",
+      "away": "Eintracht Frankfurt",
+      "score": "2-1",
+      "num_source_key_events": 4,
+      "num_generated_key_moments": 4,
+      "factual_valid": true,
+      "generation_seconds": 259.96
+    },
+    {
+      "match_id": 3878610,
+      "ok": true,
+      "home": "Atalanta",
+      "away": "Hellas Verona",
+      "score": "1-1",
+      "num_source_key_events": 3,
+      "num_generated_key_moments": 3,
+      "factual_valid": true,
+      "generation_seconds": 240.46
+    }
+  ]
+}

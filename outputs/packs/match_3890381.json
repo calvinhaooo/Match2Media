@@ -1,0 +1,72 @@
+{
+  "match_id": 3890381,
+  "language": "en",
+  "titles": [
+    "Mainz Edge Frankfurt in Thrilling Bundesliga Match",
+    "#HarisSeferović Scores Late Goal for Eintracht"
+  ],
+  "captions": [
+    {
+      "platform": "instagram",
+      "text": "Mainz take the win! FSV Mainz 05 edge out Eintracht Frankfurt 2-1 in a thrilling Bundesliga match. Yoshinori Muto and Yunus Mallı score crucial goals for the home team."
+    },
+    {
+      "platform": "tiktok",
+      "text": "GOAL! Haris Seferović scores late goal for Eintracht Frankfurt, but it's not enough to take down Mainz 2-1"
+    },
+    {
+      "platform": "x",
+      "text": "Mainz win thriller against Frankfurt 2-1"
+    }
+  ],
+  "summary": "FSV Mainz 05 edged out Eintracht Frankfurt 2-1 in a thrilling Bundesliga match. Yoshinori Muto and Yunus Mallı scored crucial goals for the home team, while Haris Seferović's late goal was not enough to turn the tide.",
+  "hashtags": [
+    "Mainz05",
+    "EintrachtFrankfurt",
+    "Bundesliga",
+    "Football",
+    "Sports"
+  ],
+  "key_moments": [
+    {
+      "minute": 4,
+      "team": "FSV Mainz 05",
+      "player": "Yoshinori Muto",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "5bda5ac0-3f0c-4532-b962-f1b3c8ed4e03"
+      },
+      "description": "Muto opens the scoring for Mainz"
+    },
+    {
+      "minute": 39,
+      "team": "Eintracht Frankfurt",
+      "player": "Alexander Meier",
+      "event_type": "red_card",
+      "evidence": {
+        "event_id": "daa50b1d-dfb1-4153-8f1a-0d19d2e9bb36"
+      },
+      "description": "Meier sent off for Eintracht"
+    },
+    {
+      "minute": 41,
+      "team": "FSV Mainz 05",
+      "player": "Yunus Mallı",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "d2729c07-9b35-4fe6-82f2-8354c645b8f2"
+      },
+      "description": "Mallı doubles Mainz's lead"
+    },
+    {
+      "minute": 60,
+      "team": "Eintracht Frankfurt",
+      "player": "Haris Seferović",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "f3525688-9123-4f7e-ae14-3c4465f3b5e4"
+      },
+      "description": "Seferović scores late goal for Eintracht"
+    }
+  ]
+}

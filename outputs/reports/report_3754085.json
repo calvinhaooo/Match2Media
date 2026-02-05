@@ -1,0 +1,10 @@
+{
+  "schema_valid": true,
+  "factual_valid": true,
+  "errors": [],
+  "stats": {
+    "num_key_events_source": 3,
+    "num_key_moments_generated": 3
+  },
+  "generation_seconds": 225.8
+}

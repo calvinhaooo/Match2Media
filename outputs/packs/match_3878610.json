@@ -1,0 +1,62 @@
+{
+  "match_id": 3878610,
+  "language": "en",
+  "titles": [
+    "Atalanta and Hellas Verona Share Points in Thrilling Serie A Match",
+    "#calcio"
+  ],
+  "captions": [
+    {
+      "platform": "instagram",
+      "text": "Atalanta and Hellas Verona played out a thrilling 1-1 draw in Serie A. Boško Janković's red card couldn't stop the visitors from equalizing through Eros Pisano's late goal."
+    },
+    {
+      "platform": "tiktok",
+      "text": "UNBELIEVABLE MATCH! Atalanta and Hellas Verona go head-to-head in Serie A, with Maximiliano Nicol Moralez scoring for the home team before Eros Pisano levels it up for the visitors!"
+    },
+    {
+      "platform": "x",
+      "text": "Atalanta and Hellas Verona share points in 1-1 draw. Boško Janković sent off, but late goal from Eros Pisano saves the day for visitors."
+    }
+  ],
+  "summary": "In a thrilling Serie A match, Atalanta and Hellas Verona played out a 1-1 draw. The home team took the lead through Maximiliano Nicol Moralez's goal in the 88th minute, but Boško Janković's red card in the 78th minute sparked controversy. However, Eros Pisano's late goal ensured that Hellas Verona secured a point.",
+  "hashtags": [
+    "SerieA",
+    "Atalanta",
+    "HellasVerona",
+    "calcio",
+    "football"
+  ],
+  "key_moments": [
+    {
+      "minute": 78,
+      "team": "Hellas Verona",
+      "player": "Boško Janković",
+      "event_type": "red_card",
+      "evidence": {
+        "event_id": "5333dc73-fb1c-433e-b9de-6e84d1d51abd"
+      },
+      "description": "Boško Janković sent off for a second yellow card"
+    },
+    {
+      "minute": 88,
+      "team": "Atalanta",
+      "player": "Maximiliano Nicol Moralez",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "8a488bfe-c908-4cc1-8b69-8dbac682cbd8"
+      },
+      "description": "Maximiliano Nicol Moralez scores for Atalanta"
+    },
+    {
+      "minute": 96,
+      "team": "Hellas Verona",
+      "player": "Eros Pisano",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "5359985a-4ea5-46f0-9e9d-e8a6acf3c7e6"
+      },
+      "description": "Eros Pisano levels the score for Hellas Verona"
+    }
+  ]
+}

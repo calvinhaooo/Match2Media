@@ -1,0 +1,73 @@
+{
+  "match_id": 3900519,
+  "language": "en",
+  "titles": [
+    "Rennes and Bordeaux share the spoils in Ligue 1 thriller!",
+    "Goals galore as Rennes and Bordeaux draw 2-2!",
+    "Thriller in Ligue 1 as Rennes and Bordeaux battle to a 2-2 draw!"
+  ],
+  "captions": [
+    {
+      "platform": "instagram",
+      "text": "Rennes and Bordeaux share the spoils in this thrilling 2-2 draw!"
+    },
+    {
+      "platform": "tiktok",
+      "text": "Goals galore in Ligue 1 as Rennes and Bordeaux battle to a 2-2 draw!"
+    },
+    {
+      "platform": "x",
+      "text": "Rennes and Bordeaux draw 2-2 in Ligue 1 thriller"
+    }
+  ],
+  "summary": "Rennes and Bordeaux played out a thrilling 2-2 draw in their Ligue 1 match. Ousmane Dembélé opened the scoring for Rennes in the 30th minute, but Enzo Crivelli equalized for Bordeaux just 10 minutes later. Kamil Grosicki put Rennes back ahead in the 74th minute, only for Diego Armando Valentin Contento to level the score once again in the 77th minute.",
+  "hashtags": [
+    "Ligue1",
+    "Rennes",
+    "Bordeaux",
+    "Football",
+    "Sports"
+  ],
+  "key_moments": [
+    {
+      "minute": 30,
+      "team": "Rennes",
+      "player": "Ousmane Dembélé",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "66dda3af-ffdb-4733-9257-670d80b1f2f2"
+      },
+      "description": "Dembélé opens the scoring for Rennes"
+    },
+    {
+      "minute": 40,
+      "team": "Bordeaux",
+      "player": "Enzo Crivelli",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "8e2cac69-d8ee-4723-b74d-352cdfbd373a"
+      },
+      "description": "Crivelli equalizes for Bordeaux"
+    },
+    {
+      "minute": 74,
+      "team": "Rennes",
+      "player": "Kamil Grosicki",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "e1a4f707-3a73-4e92-8d8d-aa6c07148350"
+      },
+      "description": "Grosicki puts Rennes back ahead"
+    },
+    {
+      "minute": 77,
+      "team": "Bordeaux",
+      "player": "Diego Armando Valentin Contento",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "c7d878b8-ead5-41ac-a038-a92525b752d0"
+      },
+      "description": "Contento levels the score for Bordeaux"
+    }
+  ]
+}

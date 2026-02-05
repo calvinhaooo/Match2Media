@@ -1,0 +1,62 @@
+{
+  "match_id": 8658,
+  "language": "en",
+  "titles": [
+    "France Edge Croatia in FIFA World Cup Thriller",
+    "#SportsNews"
+  ],
+  "captions": [
+    {
+      "platform": "instagram",
+      "text": "France take down Croatia in a thrilling match! Who else was on the edge of their seat?"
+    },
+    {
+      "platform": "tiktok",
+      "text": "Croatia vs France: The goal fest you didn't want to miss!"
+    },
+    {
+      "platform": "x",
+      "text": "France win 4-2 against Croatia in a nail-biting match"
+    }
+  ],
+  "summary": "In a thrilling match, France took down Croatia with a final score of 4-2. The match was filled with goals from both teams, including Ivan Perišić's goal for Croatia and Antoine Griezmann's goal for France.",
+  "hashtags": [
+    "#FIFAWorldCup",
+    "#FranceVsCroatia",
+    "#SportsNews",
+    "#Football",
+    "#GoalFest"
+  ],
+  "key_moments": [
+    {
+      "minute": 27,
+      "team": "Croatia",
+      "player": "Ivan Perišić",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "d3dd1458-33f9-4810-aaf5-3bca48c7897d"
+      },
+      "description": "Croatia's Ivan Perišić scores a goal in the 27th minute."
+    },
+    {
+      "minute": 37,
+      "team": "France",
+      "player": "Antoine Griezmann",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "864ce121-d6ff-4c6e-b1f9-73f51c8c48bc"
+      },
+      "description": "France's Antoine Griezmann scores a goal in the 37th minute."
+    },
+    {
+      "minute": 58,
+      "team": "France",
+      "player": "Paul Pogba",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "8b8479e0-b82d-47d4-bc24-f80ff589dbe6"
+      },
+      "description": "France's Paul Pogba scores a goal in the 58th minute."
+    }
+  ]
+}

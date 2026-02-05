@@ -1,0 +1,65 @@
+{
+  "match_id": 3890402,
+  "language": "en",
+  "titles": [
+    "Augsburg Edges Schalke 04 in Thrilling Match!",
+    "#Football #Sports"
+  ],
+  "captions": [
+    {
+      "platform": "instagram",
+      "text": "Augsburg's thrilling win over Schalke 04! Don't miss the highlights!"
+    },
+    {
+      "platform": "tiktok",
+      "text": "Schalke 04 falls to Augsburg in a nail-biter! Watch now!"
+    },
+    {
+      "platform": "x",
+      "text": "Augsburg edges Schalke 04 in a closely contested match"
+    }
+  ],
+  "summary": "Augsburg secured a thrilling 2-1 win over Schalke 04 in their 2015/2016 Bundesliga match. The home team took the lead with Jeong-Ho Hong's goal in the 33rd minute, but Schalke 04 equalized through Sead Kolašinac's shot in the 69th minute. Caiuby Francisco da Silva sealed the win for Augsburg with a goal in the 91st minute.",
+  "hashtags": [
+    "#AugsburgFC",
+    "#Schalke04",
+    "#Bundesliga",
+    "#Football",
+    "#Sports"
+  ],
+  "key_moments": [
+    {
+      "minute": 33,
+      "team": "Augsburg",
+      "player": "Jeong-Ho Hong",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "ba808336-7bff-4704-bafa-bfb86deed97c",
+        "type": "Shot"
+      },
+      "description": "Augsburg takes the lead with Jeong-Ho Hong's goal"
+    },
+    {
+      "minute": 69,
+      "team": "Schalke 04",
+      "player": "Sead Kolašinac",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "e9c80ae2-a15e-495c-8e6c-3e74b2125014",
+        "type": "Shot"
+      },
+      "description": "Schalke 04 equalizes with Sead Kolašinac's shot"
+    },
+    {
+      "minute": 91,
+      "team": "Augsburg",
+      "player": "Caiuby Francisco da Silva",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "d887d879-e6ef-449c-bc8e-34958e2754dd",
+        "type": "Shot"
+      },
+      "description": "Augsburg seals the win with Caiuby Francisco da Silva's goal"
+    }
+  ]
+}
