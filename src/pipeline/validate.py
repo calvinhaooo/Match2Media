@@ -10,17 +10,16 @@ def validate_pack(pack: Dict[str, Any], features: Dict[str, Any]) -> Dict[str, A
     allowed_minutes = set(features["allowed"]["minutes"])
     allowed_score = features["allowed"]["score"]
 
-    # 基础事实
+    # basic fact
     if pack.get("match_id") != features["match"]["match_id"]:
         errors.append("match_id mismatch")
 
-    # 检查 summary 不允许胡写比分
+    # check summary
     summary = (pack.get("summary") or "")
     if allowed_score not in summary and allowed_score.replace("-", "–") not in summary:
-        # 不强制必须包含比分，但如果你希望包含就改成强制
         pass
 
-    # key_moments 事实一致
+    # key_moments check
     for i, km in enumerate(pack.get("key_moments", [])):
         minute = km.get("minute")
         team = km.get("team")

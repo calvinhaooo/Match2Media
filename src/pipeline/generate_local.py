@@ -5,7 +5,6 @@ from typing import List, Literal, Optional
 from pydantic import BaseModel, Field, ValidationError, conlist
 
 
-# ---------- 1) 定义输出结构（schema） ----------
 class Caption(BaseModel):
     platform: Literal["instagram", "tiktok", "x"]
     text: str
@@ -29,8 +28,6 @@ class ContentPack(BaseModel):
     hashtags: List[str] = []
     key_moments: conlist(KeyMoment, min_length=0, max_length=5)
 
-
-# ---------- 2) 调用 Ollama ----------
 def _ollama_chat(model: str, system: str, user: str, temperature: float = 0.2) -> str:
     url = "http://localhost:11434/api/chat"
     payload = {
@@ -46,8 +43,6 @@ def _ollama_chat(model: str, system: str, user: str, temperature: float = 0.2) -
     r.raise_for_status()
     return r.json()["message"]["content"]
 
-
-# ---------- 3) 从模型输出里提取 JSON ----------
 def _extract_json(text: str) -> str:
     text = text.strip()
     # strip ```json ... ```
@@ -58,7 +53,7 @@ def _extract_json(text: str) -> str:
     return m.group(0) if m else text
 
 
-# ---------- 4) 生成 content pack（带重试与结构校验） ----------
+# retry and schema check
 def generate_content_pack_local(
     features: dict,
     language: str = "en",
