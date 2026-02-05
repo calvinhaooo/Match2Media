@@ -1,0 +1,84 @@
+{
+  "match": {
+    "match_id": 8658,
+    "home_team": "France",
+    "away_team": "Croatia",
+    "final_score": "4-2",
+    "competition": "FIFA World Cup",
+    "season": "2018",
+    "match_date": "2018-07-15"
+  },
+  "events": [
+    {
+      "minute": 27,
+      "team": "Croatia",
+      "player": "Ivan Perišić",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "d3dd1458-33f9-4810-aaf5-3bca48c7897d",
+        "type": "Shot"
+      }
+    },
+    {
+      "minute": 37,
+      "team": "France",
+      "player": "Antoine Griezmann",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "864ce121-d6ff-4c6e-b1f9-73f51c8c48bc",
+        "type": "Shot"
+      }
+    },
+    {
+      "minute": 58,
+      "team": "France",
+      "player": "Paul Pogba",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "8b8479e0-b82d-47d4-bc24-f80ff589dbe6",
+        "type": "Shot"
+      }
+    },
+    {
+      "minute": 64,
+      "team": "France",
+      "player": "Kylian Mbappé Lottin",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "8b3b883a-7cca-4677-bfde-e4f9c3ce8aac",
+        "type": "Shot"
+      }
+    },
+    {
+      "minute": 68,
+      "team": "Croatia",
+      "player": "Mario Mandžukić",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "7906899a-fd84-4697-af0d-dc9903b4f5e0",
+        "type": "Shot"
+      }
+    }
+  ],
+  "allowed": {
+    "teams": [
+      "France",
+      "Croatia"
+    ],
+    "players": [
+      "Antoine Griezmann",
+      "Ivan Perišić",
+      "Kylian Mbappé Lottin",
+      "Mario Mandžukić",
+      "Paul Pogba"
+    ],
+    "minutes": [
+      27,
+      37,
+      58,
+      64,
+      68
+    ],
+    "score": "4-2"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "match": {
+    "match_id": 3930165,
+    "home_team": "Austria",
+    "away_team": "France",
+    "final_score": "0-1",
+    "competition": "UEFA Euro",
+    "season": "2024",
+    "match_date": "2024-06-17"
+  },
+  "events": [],
+  "allowed": {
+    "teams": [
+      "Austria",
+      "France"
+    ],
+    "players": [],
+    "minutes": [],
+    "score": "0-1"
+  }
+}

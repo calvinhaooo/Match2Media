@@ -1,0 +1,72 @@
+{
+  "match": {
+    "match_id": 3900519,
+    "home_team": "Rennes",
+    "away_team": "Bordeaux",
+    "final_score": "2-2",
+    "competition": "Ligue 1",
+    "season": "2015/2016",
+    "match_date": "2015-11-22"
+  },
+  "events": [
+    {
+      "minute": 30,
+      "team": "Rennes",
+      "player": "Ousmane Dembélé",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "66dda3af-ffdb-4733-9257-670d80b1f2f2",
+        "type": "Shot"
+      }
+    },
+    {
+      "minute": 40,
+      "team": "Bordeaux",
+      "player": "Enzo Crivelli",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "8e2cac69-d8ee-4723-b74d-352cdfbd373a",
+        "type": "Shot"
+      }
+    },
+    {
+      "minute": 74,
+      "team": "Rennes",
+      "player": "Kamil Grosicki",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "e1a4f707-3a73-4e92-8d8d-aa6c07148350",
+        "type": "Shot"
+      }
+    },
+    {
+      "minute": 77,
+      "team": "Bordeaux",
+      "player": "Diego Armando Valentin Contento",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "c7d878b8-ead5-41ac-a038-a92525b752d0",
+        "type": "Shot"
+      }
+    }
+  ],
+  "allowed": {
+    "teams": [
+      "Rennes",
+      "Bordeaux"
+    ],
+    "players": [
+      "Diego Armando Valentin Contento",
+      "Enzo Crivelli",
+      "Kamil Grosicki",
+      "Ousmane Dembélé"
+    ],
+    "minutes": [
+      30,
+      40,
+      74,
+      77
+    ],
+    "score": "2-2"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "match": {
+    "match_id": 3754297,
+    "home_team": "Manchester United",
+    "away_team": "West Bromwich Albion",
+    "final_score": "2-0",
+    "competition": "Premier League",
+    "season": "2015/2016",
+    "match_date": "2015-11-07"
+  },
+  "events": [
+    {
+      "minute": 51,
+      "team": "Manchester United",
+      "player": "Jesse Lingard",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "19acd417-9692-4078-9ea5-9f0403fb5509",
+        "type": "Shot"
+      }
+    },
+    {
+      "minute": 89,
+      "team": "West Bromwich Albion",
+      "player": "Gareth McAuley",
+      "event_type": "red_card",
+      "evidence": {
+        "event_id": "64f9bacc-f447-44dc-a692-fc7d331ea214",
+        "type": "Foul Committed",
+        "card": "Red Card"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Manchester United",
+      "player": "Juan Manuel Mata García",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "f69657cc-f919-4d4d-9616-8523c3f99b0e",
+        "type": "Shot"
+      }
+    }
+  ],
+  "allowed": {
+    "teams": [
+      "Manchester United",
+      "West Bromwich Albion"
+    ],
+    "players": [
+      "Gareth McAuley",
+      "Jesse Lingard",
+      "Juan Manuel Mata García"
+    ],
+    "minutes": [
+      51,
+      89,
+      90
+    ],
+    "score": "2-0"
+  }
+}

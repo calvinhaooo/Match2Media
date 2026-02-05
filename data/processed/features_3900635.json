@@ -1,0 +1,21 @@
+{
+  "match": {
+    "match_id": 3900635,
+    "home_team": "Stade de Reims",
+    "away_team": "Bastia",
+    "final_score": "0-1",
+    "competition": "Ligue 1",
+    "season": "2015/2016",
+    "match_date": "2016-02-13"
+  },
+  "events": [],
+  "allowed": {
+    "teams": [
+      "Stade de Reims",
+      "Bastia"
+    ],
+    "players": [],
+    "minutes": [],
+    "score": "0-1"
+  }
+}

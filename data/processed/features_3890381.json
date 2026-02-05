@@ -1,0 +1,73 @@
+{
+  "match": {
+    "match_id": 3890381,
+    "home_team": "FSV Mainz 05",
+    "away_team": "Eintracht Frankfurt",
+    "final_score": "2-1",
+    "competition": "1. Bundesliga",
+    "season": "2015/2016",
+    "match_date": "2015-11-28"
+  },
+  "events": [
+    {
+      "minute": 4,
+      "team": "FSV Mainz 05",
+      "player": "Yoshinori Muto",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "5bda5ac0-3f0c-4532-b962-f1b3c8ed4e03",
+        "type": "Shot"
+      }
+    },
+    {
+      "minute": 39,
+      "team": "Eintracht Frankfurt",
+      "player": "Alexander Meier",
+      "event_type": "red_card",
+      "evidence": {
+        "event_id": "daa50b1d-dfb1-4153-8f1a-0d19d2e9bb36",
+        "type": "Foul Committed",
+        "card": "Second Yellow"
+      }
+    },
+    {
+      "minute": 41,
+      "team": "FSV Mainz 05",
+      "player": "Yunus Mallı",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "d2729c07-9b35-4fe6-82f2-8354c645b8f2",
+        "type": "Shot"
+      }
+    },
+    {
+      "minute": 60,
+      "team": "Eintracht Frankfurt",
+      "player": "Haris Seferović",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "f3525688-9123-4f7e-ae14-3c4465f3b5e4",
+        "type": "Shot"
+      }
+    }
+  ],
+  "allowed": {
+    "teams": [
+      "FSV Mainz 05",
+      "Eintracht Frankfurt"
+    ],
+    "players": [
+      "Alexander Meier",
+      "Haris Seferović",
+      "Yoshinori Muto",
+      "Yunus Mallı"
+    ],
+    "minutes": [
+      4,
+      39,
+      41,
+      60
+    ],
+    "score": "2-1"
+  }
+}

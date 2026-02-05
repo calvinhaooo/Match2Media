@@ -1,0 +1,61 @@
+{
+  "match": {
+    "match_id": 3878610,
+    "home_team": "Atalanta",
+    "away_team": "Hellas Verona",
+    "final_score": "1-1",
+    "competition": "Serie A",
+    "season": "2015/2016",
+    "match_date": "2015-09-20"
+  },
+  "events": [
+    {
+      "minute": 78,
+      "team": "Hellas Verona",
+      "player": "Boško Janković",
+      "event_type": "red_card",
+      "evidence": {
+        "event_id": "5333dc73-fb1c-433e-b9de-6e84d1d51abd",
+        "type": "Foul Committed",
+        "card": "Second Yellow"
+      }
+    },
+    {
+      "minute": 88,
+      "team": "Atalanta",
+      "player": "Maximiliano Nicol Moralez",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "8a488bfe-c908-4cc1-8b69-8dbac682cbd8",
+        "type": "Shot"
+      }
+    },
+    {
+      "minute": 96,
+      "team": "Hellas Verona",
+      "player": "Eros Pisano",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "5359985a-4ea5-46f0-9e9d-e8a6acf3c7e6",
+        "type": "Shot"
+      }
+    }
+  ],
+  "allowed": {
+    "teams": [
+      "Atalanta",
+      "Hellas Verona"
+    ],
+    "players": [
+      "Boško Janković",
+      "Eros Pisano",
+      "Maximiliano Nicol Moralez"
+    ],
+    "minutes": [
+      78,
+      88,
+      96
+    ],
+    "score": "1-1"
+  }
+}

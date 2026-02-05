@@ -1,0 +1,105 @@
+{
+  "match": {
+    "match_id": 3754174,
+    "home_team": "Leicester City",
+    "away_team": "Arsenal",
+    "final_score": "2-5",
+    "competition": "Premier League",
+    "season": "2015/2016",
+    "match_date": "2015-09-26"
+  },
+  "events": [
+    {
+      "minute": 12,
+      "team": "Leicester City",
+      "player": "Jamie Vardy",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "4686a4fd-753f-4251-baaa-a0c1c807a09f",
+        "type": "Shot"
+      }
+    },
+    {
+      "minute": 17,
+      "team": "Arsenal",
+      "player": "Theo Walcott",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "a4f04aff-b7b0-47e2-8677-f51a66092e4d",
+        "type": "Shot"
+      }
+    },
+    {
+      "minute": 32,
+      "team": "Arsenal",
+      "player": "Alexis Alejandro Sánchez Sánchez",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "64146faa-1317-4a30-9bb7-31d5db4ce45b",
+        "type": "Shot"
+      }
+    },
+    {
+      "minute": 56,
+      "team": "Arsenal",
+      "player": "Alexis Alejandro Sánchez Sánchez",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "1752b588-50db-4120-b7a0-75750de02b2c",
+        "type": "Shot"
+      }
+    },
+    {
+      "minute": 80,
+      "team": "Arsenal",
+      "player": "Alexis Alejandro Sánchez Sánchez",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "bce870ed-6a5c-40c5-b054-db569ed3147b",
+        "type": "Shot"
+      }
+    },
+    {
+      "minute": 88,
+      "team": "Leicester City",
+      "player": "Jamie Vardy",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "dff3a000-c424-464c-b5b6-a3355e09ba81",
+        "type": "Shot"
+      }
+    },
+    {
+      "minute": 92,
+      "team": "Arsenal",
+      "player": "Olivier Giroud",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "a6d1ada3-a5ab-4303-9f53-1245eaa67c8f",
+        "type": "Shot"
+      }
+    }
+  ],
+  "allowed": {
+    "teams": [
+      "Leicester City",
+      "Arsenal"
+    ],
+    "players": [
+      "Alexis Alejandro Sánchez Sánchez",
+      "Jamie Vardy",
+      "Olivier Giroud",
+      "Theo Walcott"
+    ],
+    "minutes": [
+      12,
+      17,
+      32,
+      56,
+      80,
+      88,
+      92
+    ],
+    "score": "2-5"
+  }
+}

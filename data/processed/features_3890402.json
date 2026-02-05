@@ -1,0 +1,60 @@
+{
+  "match": {
+    "match_id": 3890402,
+    "home_team": "Augsburg",
+    "away_team": "Schalke 04",
+    "final_score": "2-1",
+    "competition": "1. Bundesliga",
+    "season": "2015/2016",
+    "match_date": "2015-12-13"
+  },
+  "events": [
+    {
+      "minute": 33,
+      "team": "Augsburg",
+      "player": "Jeong-Ho Hong",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "ba808336-7bff-4704-bafa-bfb86deed97c",
+        "type": "Shot"
+      }
+    },
+    {
+      "minute": 69,
+      "team": "Schalke 04",
+      "player": "Sead Kolašinac",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "e9c80ae2-a15e-495c-8e6c-3e74b2125014",
+        "type": "Shot"
+      }
+    },
+    {
+      "minute": 91,
+      "team": "Augsburg",
+      "player": "Caiuby Francisco da Silva",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "d887d879-e6ef-449c-bc8e-34958e2754dd",
+        "type": "Shot"
+      }
+    }
+  ],
+  "allowed": {
+    "teams": [
+      "Augsburg",
+      "Schalke 04"
+    ],
+    "players": [
+      "Caiuby Francisco da Silva",
+      "Jeong-Ho Hong",
+      "Sead Kolašinac"
+    ],
+    "minutes": [
+      33,
+      69,
+      91
+    ],
+    "score": "2-1"
+  }
+}

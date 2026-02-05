@@ -1,0 +1,49 @@
+{
+  "match": {
+    "match_id": 3825766,
+    "home_team": "Real Betis",
+    "away_team": "Valencia",
+    "final_score": "1-0",
+    "competition": "La Liga",
+    "season": "2015/2016",
+    "match_date": "2016-02-07"
+  },
+  "events": [
+    {
+      "minute": 48,
+      "team": "Real Betis",
+      "player": "Rubén Castro Martín",
+      "event_type": "goal",
+      "evidence": {
+        "event_id": "8b8aa603-4465-4e3f-b2eb-0d06d134bf80",
+        "type": "Shot"
+      }
+    },
+    {
+      "minute": 84,
+      "team": "Valencia",
+      "player": "José Luis Gayà Peña",
+      "event_type": "red_card",
+      "evidence": {
+        "event_id": "530398e7-f78a-41d5-a62f-50a08b3fdb79",
+        "type": "Foul Committed",
+        "card": "Second Yellow"
+      }
+    }
+  ],
+  "allowed": {
+    "teams": [
+      "Real Betis",
+      "Valencia"
+    ],
+    "players": [
+      "José Luis Gayà Peña",
+      "Rubén Castro Martín"
+    ],
+    "minutes": [
+      48,
+      84
+    ],
+    "score": "1-0"
+  }
+}
